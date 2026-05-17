@@ -1,0 +1,2 @@
+target,model,best_cv_neg_mae,best_params,tuned_rows,tuned_periods
+sales,random_forest,-3862.6172110913353,"{'max_depth': 8, 'min_samples_leaf': 1, 'n_estimators': 200}",68,4
